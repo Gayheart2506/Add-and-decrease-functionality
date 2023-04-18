@@ -1,0 +1,20 @@
+.main-container{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.sign-container{
+    width: 40px;
+    height: 50px;
+    background-color: gold;
+    text-align: center;
+}
+
+.signs{
+    position: relative;
+    bottom: 10px;
+    cursor: pointer;
+}
